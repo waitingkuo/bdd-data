@@ -75,7 +75,7 @@ Drivable area category is `drivable area`. There are two area types `areaType`:
 ]
 ```
 
-Lane marking category is `lane`. There are 8 lane styles `laneStyle`:
+Lane marking category is `lane`. There are 8 lane types `laneType`:
 ```
 [
     "crosswalk",
